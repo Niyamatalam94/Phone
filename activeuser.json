@@ -25,6 +25,6 @@
         "username": "admin",
         "password": "admin",
         "expirydate": "25-12-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
